@@ -1,166 +1,202 @@
 export const templateItems = [
   {
     group: "Who's the next winner?",
-    label: 'Jim',
-    weight: 5,
+    label: 'Better Luck Next Time',
+    weight: 2,
     order: 0
   },
   {
     group: "Who's the next winner?",
-    label: 'John',
+    label: '1 Extra Bowl',
     weight: 1,
     order: 1
   },
   {
     group: "Who's the next winner?",
-    label: 'Will',
-    weight: 5,
+    label: '5 Rs. Less In Next Buy',
+    weight: 1,
     order: 2
   },
   {
     group: "Who's the next winner?",
-    label: 'Mark',
-    weight: 1,
+    label: 'Better Luck Next Time',
+    weight: 3,
     order: 3
   },
   {
     group: "Who's the next winner?",
-    label: 'Emily',
-    weight: 4,
+    label: '1 More Chance',
+    weight: 3,
     order: 4
   },
   {
     group: "Who's the next winner?",
-    label: 'Sarah',
-    weight: 3,
+    label: 'Better Luck Next Time',
+    weight: 4,
     order: 5
   },
   {
     group: "Who's the next winner?",
-    label: 'David',
+    label: 'Better Luck Next Time',
     weight: 2,
     order: 6
   },
   {
     group: "Who's the next winner?",
-    label: 'Michael',
+    label: '1 Bowl Extra On Next Buy',
     weight: 1,
     order: 7
   },
   {
     group: "Who's the next winner?",
-    label: 'Jessica',
-    weight: 3,
+    label: 'Better Luck Next Time',
+    weight: 1,
     order: 8
   },
-
   {
-    group: 'Prizes',
-    label: 'iPad',
+    group: "Who's the next winner?",
+    label: '10 Rs. Cashback',
     weight: 1,
     order: 9
   },
   {
-    group: 'Prizes',
-    label: 'iPhone',
+    group: "Who's the next winner?",
+    label: '1 More Chance',
     weight: 1,
     order: 10
   },
+
   {
-    group: 'Prizes',
-    label: 'iPod',
-    weight: 1,
-    order: 11
+    group: "Prizes",
+    label: 'Better Luck Next Time',
+    weight: 2,
+    order: 0
   },
   {
-    group: 'Prizes',
-    label: 'iMac',
+    group: "Prizes",
+    label: '1 Extra Bowl',
     weight: 1,
-    order: 12
+    order: 1
   },
   {
-    group: 'Prizes',
-    label: 'MacBook',
+    group: "Prizes",
+    label: '5 Rs. Less In Next Buy',
     weight: 1,
-    order: 13
+    order: 2
   },
   {
-    group: 'Prizes',
-    label: 'MacBook Pro',
-    weight: 1,
-    order: 14
+    group: "Prizes",
+    label: 'Better Luck Next Time',
+    weight: 3,
+    order: 3
   },
   {
-    group: 'Prizes',
-    label: 'MacBook Air',
-    weight: 1,
-    order: 15
+    group: "Prizes",
+    label: '1 More Chance',
+    weight: 3,
+    order: 4
   },
   {
-    group: 'Prizes',
-    label: 'Apple Watch',
-    weight: 1,
-    order: 16
+    group: "Prizes",
+    label: 'Better Luck Next Time',
+    weight: 4,
+    order: 5
   },
   {
-    group: 'Prizes',
-    label: 'Apple TV',
+    group: "Prizes",
+    label: 'Better Luck Next Time',
+    weight: 2,
+    order: 6
+  },
+  {
+    group: "Prizes",
+    label: '1 Bowl Extra On Next Buy',
     weight: 1,
-    order: 17
+    order: 7
+  },
+  {
+    group: "Prizes",
+    label: 'Better Luck Next Time',
+    weight: 1,
+    order: 8
+  },
+  {
+    group: "Prizes",
+    label: '10 Rs. Cashback',
+    weight: 1,
+    order: 9
+  },
+  {
+    group: "Prizes",
+    label: '1 More Chance',
+    weight: 1,
+    order: 10
   },
 
   {
-    group: '晚餐吃什麼?',
-    label: '火鍋',
-    weight: 5,
-    order: 18
-  },
-  {
-    group: '晚餐吃什麼?',
-    label: '牛肉麵',
-    weight: 4,
-    order: 19
-  },
-  {
-    group: '晚餐吃什麼?',
-    label: '牛排館',
-    weight: 3,
-    order: 20
-  },
-  {
-    group: '晚餐吃什麼?',
-    label: '拉麵',
+    group: "晚餐吃什麼?",
+    label: 'Better Luck Next Time',
     weight: 2,
-    order: 21
+    order: 0
   },
   {
-    group: '晚餐吃什麼?',
-    label: '便當店',
+    group: "晚餐吃什麼?",
+    label: '1 Extra Bowl',
     weight: 1,
-    order: 22
+    order: 1
   },
   {
-    group: '晚餐吃什麼?',
-    label: '自助餐',
+    group: "晚餐吃什麼?",
+    label: '5 Rs. Less In Next Buy',
     weight: 1,
-    order: 23
+    order: 2
   },
   {
-    group: '晚餐吃什麼?',
-    label: '夜市',
+    group: "晚餐吃什麼?",
+    label: 'Better Luck Next Time',
     weight: 3,
-    order: 24
+    order: 3
   },
   {
-    group: '晚餐吃什麼?',
-    label: '速食店',
-    weight: 10,
-    order: 25
-  },
-  {
-    group: '晚餐吃什麼?',
-    label: '中餐館',
+    group: "晚餐吃什麼?",
+    label: '1 More Chance',
     weight: 3,
-    order: 26
-  }
-];
+    order: 4
+  },
+  {
+    group: "晚餐吃什麼?",
+    label: 'Better Luck Next Time',
+    weight: 4,
+    order: 5
+  },
+  {
+    group: "晚餐吃什麼?",
+    label: 'Better Luck Next Time',
+    weight: 2,
+    order: 6
+  },
+  {
+    group: "晚餐吃什麼?",
+    label: '1 Bowl Extra On Next Buy',
+    weight: 1,
+    order: 7
+  },
+  {
+    group: "晚餐吃什麼?",
+    label: 'Better Luck Next Time',
+    weight: 1,
+    order: 8
+  },
+  {
+    group: "晚餐吃什麼?",
+    label: '10 Rs. Cashback',
+    weight: 1,
+    order: 9
+  },
+  {
+    group: "晚餐吃什麼?",
+    label: '1 More Chance',
+    weight: 1,
+    order: 10
+  },
+]
